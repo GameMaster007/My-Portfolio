@@ -4,10 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // This is important for GitHub Pages deployment
-  // Replace 'your-repo-name' with the name of your GitHub repository
-  basePath: '/your-repo-name',
-  assetPrefix: '/your-repo-name/',
+  // Update this to match your repository name
+  basePath: '/My-Portfolio',
+  assetPrefix: '/My-Portfolio/',
 }
 
 module.exports = nextConfig
